@@ -1,2 +1,2 @@
 # conversorDolarMoeda
-Conversor que te mostra quantas e quais moedas você tem com um valor de dolar
+Conversor que mostra a quantidade mínima e quais moedas você tem com um valor de dolar
